@@ -17,7 +17,7 @@ export function AppStoreBadge({ className, size = "medium" }: AppStoreBadgeProps
   
   return (
     <Link 
-      href="#" 
+      href="https://apps.apple.com/us/app/ai-art-identifier/id6747391248" 
       className={`relative block ${className}`}
       style={{ width, height }}
     >

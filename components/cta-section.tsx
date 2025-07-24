@@ -18,7 +18,7 @@ export function CTASection() {
             </p>
           </div>
           <div className="flex flex-col gap-2 min-[400px]:flex-row justify-center">
-            <Link href="#" className="w-[170px] h-[50px] relative">
+            <Link href="https://apps.apple.com/us/app/ai-art-identifier/id6747391248" className="w-[170px] h-[50px] relative">
               <Image 
                 src="/app-store-badge.svg" 
                 alt="Download on the App Store"

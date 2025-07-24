@@ -29,7 +29,7 @@ export function SiteHeader() {
         </nav>
         <div className="flex items-center gap-2">
           <ThemeToggle />
-          <Link href="#" className="w-[120px] h-[40px] relative">
+          <Link href="https://apps.apple.com/us/app/ai-art-identifier/id6747391248" className="w-[120px] h-[40px] relative">
             <Image 
               src="/app-store-badge.svg" 
               alt="Download on the App Store"
